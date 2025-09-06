@@ -24,7 +24,7 @@ This is a cross-platform YouTube demo application built with [Expo](https://expo
 1. **Clone the repository:**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Mohd-Fazal-khan/ytfrontend.git
    cd client
    ```
 
@@ -89,4 +89,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Contact:** For questions or support, please open an issue or reach out on [Expo Discord](https://chat.expo.dev).
+**Created By:** Mohd Fazal Khan
