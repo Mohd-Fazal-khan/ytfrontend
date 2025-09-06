@@ -25,7 +25,7 @@ This is a cross-platform YouTube demo application built with [Expo](https://expo
 
    ```sh
    git clone https://github.com/Mohd-Fazal-khan/ytfrontend.git
-   cd client
+   
    ```
 
 2. **Install dependencies:**
