@@ -19,26 +19,30 @@ This is a cross-platform YouTube demo application built with [Expo](https://expo
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/) (optional, for advanced usage)
 
-### Installation
+### Installation & Running
 
-1. **Install dependencies:**
+1. **Clone the repository:**
+
+   ```sh
+   git clone <your-repo-url>
+   cd client
+   ```
+
+2. **Install dependencies:**
 
    ```sh
    npm install
    ```
 
-2. **Start the development server:**
+3. **Start the development server:**
 
    ```sh
    npx expo start
    ```
 
-   You can open the app in:
-
-   - [Expo Go](https://expo.dev/go) (scan the QR code)
-   - Android emulator
-   - iOS simulator
-   - Web browser
+4. **Open the app:**
+   - Scan the QR code with Expo Go on your mobile device
+   - Or press `a` for Android emulator, `i` for iOS simulator, or `w` for web
 
 ### Project Structure
 
